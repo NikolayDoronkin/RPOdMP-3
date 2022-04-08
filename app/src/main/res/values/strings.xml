@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">Relax</string>
+
+    <string name="descript_background">background</string>
+    <string name="descript_logo">logo</string>
+    <string name="descript_leaf">leaf</string>
+    <string name="descript_menu">menu</string>
+    <string name="descript_avatar">avatar</string>
+    <string name="descript_photo">photo</string>
+    <string name="descript_edit">edit</string>
+    <string name="descript_bmi">bmi</string>
+    <string name="descript_about">about</string>
+    <string name="descript_guide">guide</string>
+    <string name="descript_shuffle">shuffle</string>
+    <string name="descript_skip_previous">skip previous</string>
+    <string name="descript_pause">pause</string>
+    <string name="descript_skip_next">skip next</string>
+    <string name="descript_repeat">repeat</string>
+    <string name="descript_mood">mood</string>
+    <string name="descript_suggestion">suggestion</string>
+    <string name="descript_home">home</string>
+    <string name="descript_music">music</string>
+    <string name="descript_profile">profile</string>
+
+    <string name="error_register">Such user already exists!</string>
+    <string name="error_login">Such user does not exist!</string>
+    <string name="error_fields_data">Incorrect fields data</string>
+    <string name="toast_check_data">Check your data</string>
+
+    <string name="label_name">Name</string>
+    <string name="label_email">Email</string>
+    <string name="label_password">Password</string>
+    <string name="label_phone">Phone</string>
+    <string name="label_weight">Weight</string>
+    <string name="label_height">Height</string>
+    <string name="label_birthday">Birthday: dd.mm.yyyy</string>
+
+    <string name="btn_register">Register</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_close">Close</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_finish">Finish</string>
+    <string name="btn_less">Less</string>
+    <string name="btn_more">More</string>
+    <string name="btn_calculate">Calculate</string>
+
+    <string name="menu_edit_profile">Edit Profile</string>
+    <string name="menu_bmi">Body Mass Index</string>
+    <string name="menu_about_developer">About Developer</string>
+    <string name="menu_guide">Guide</string>
+
+    <string name="text_sign_in">Sing In</string>
+    <string name="text_sign_up">Sign Up</string>
+    <string name="text_not_account">Don\'t have an account yet?</string>
+    <string name="text_is_account">Already have an account?</string>
+    <string name="text_exit">Exit</string>
+    <string name="text_username">Username: %1$s</string>
+    <string name="text_birthday">Birthday: %1$s</string>
+    <string name="text_weight">Weight: %1$s</string>
+    <string name="text_height">Height: %1$s</string>
+    <string name="text_phone">Phone: %1$s</string>
+    <string name="text_email">Email: %1$s</string>
+    <string name="text_update_profile">Update profile</string>
+    <string name="text_enter_phone">Enter your phone number</string>
+    <string name="text_enter_weight">Enter your weight</string>
+    <string name="text_enter_height">Enter your height</string>
+    <string name="text_enter_birthday">Enter your birthday date</string>
+    <string name="text_have_account">Don\'t have an account?</string>
+    <string name="text_menu">Finish</string>
+    <string name="text_recommendation">Recommendation</string>
+    <string name="text_music">%1$s music</string>
+    <string name="text_welcome_back">Welcome back, %1$s!</string>
+    <string name="text_feel">How do you feel today?</string>
+    <string name="text_horoscope">Horoscope</string>
+    <string name="text_cur_recommendation">Current recommendation</string>
+    <string name="text_daily_recommendation">Daily recommendation</string>
+    <string name="text_zodiac">Date of birth according to zodiac sign</string>
+    <string name="text_today_recommendation">Mood recommendation for today</string>
+    <string name="text_average_recommendation">Mood recommendation based on average scores</string>
+    <string name="text_music_recommendation">Music screen with recommendation</string>
+    <string name="text_home_screen">That is home screen, where you can select you mood and read recommendation</string>
+    <string name="text_below_norm">Below normal weight</string>
+    <string name="text_normal_weight">Normal weight</string>
+    <string name="text_overweight">Overweight</string>
+    <string name="text_obesity_1">Obesity I degree</string>
+    <string name="text_obesity_2">Obesity II degree</string>
+    <string name="text_obesity_3">Obesity III degree</string>
+    <string name="text_error">Error</string>
+    <string name="text_about">About Developer</string>
+
+    <string name="lab_developer">Developer: Khadzko Katerine</string>
+    <string name="lab_name">Project Name: Relax</string>
+    <string name="lab_groupe">Groupe: 951006</string>
+    <string name="lab_number">Lab Number: 3</string>
+
+    <string name="mood_calm">Calm</string>
+    <string name="mood_relax">Relax</string>
+    <string name="mood_focus">Focus</string>
+    <string name="mood_excited">Excited</string>
+    <string name="mood_fun">Fun</string>
+    <string name="mood_sadness">Sadness</string>
+
+</resources>
